@@ -1,0 +1,1 @@
+# practicing pytorch ddp on mnist
