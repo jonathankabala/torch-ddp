@@ -1,0 +1,12 @@
+epoch [1/10] | accuracy: 0.6569
+epoch [2/10] | accuracy: 0.7780
+epoch [3/10] | accuracy: 0.8230
+epoch [4/10] | accuracy: 0.8473
+epoch [5/10] | accuracy: 0.8632
+epoch [6/10] | accuracy: 0.8750
+epoch [7/10] | accuracy: 0.8843
+epoch [8/10] | accuracy: 0.8923
+epoch [9/10] | accuracy: 0.8986
+epoch [10/10] | accuracy: 0.9040
+
+training complete in: 61.5596104292199

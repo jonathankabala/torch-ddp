@@ -1,0 +1,1 @@
+python3 mnist-distributed.py -n 1 -g 4 -nr 0
